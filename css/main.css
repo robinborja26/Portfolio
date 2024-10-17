@@ -42,7 +42,7 @@ body {
 /* 16px base font size with 150% (24px) friendly, unitless line height and margin for vertical rhythm */
 /* Font-size percentage is based on 16px browser default size */
 body, button, input, select, textarea {
-  font: 20% 'Lato', sans-serif;
+  font: 100% 'Lato', sans-serif;
   *font-size: 1em;
   color: #555
 }
